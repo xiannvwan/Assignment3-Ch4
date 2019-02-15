@@ -1,0 +1,14 @@
+body {
+	padding-left: 50px;
+	background-color: white;
+	background-image: url(images/twocolor.gif);
+	background-repeat: repeat-y;
+	color: #3b3a36
+}
+
+h1 {
+	border: 5px solid #c5d5cb;
+	padding: 5px;
+	color: #9fa8a3;
+	text-align: center;
+}
